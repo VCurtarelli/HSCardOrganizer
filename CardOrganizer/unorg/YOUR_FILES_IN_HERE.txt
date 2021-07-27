@@ -1,0 +1,4 @@
+This is where you put the cards you want to organize. The foldername stands for "unorg"anized cards.
+The program can deal with 2 states of cards:
+1. Standalone cards - Those are just .png cards inside this folder.
+2. Multi cards		- Those are folders, in which there is a card with the same name. This is for the case your card has tokens.
