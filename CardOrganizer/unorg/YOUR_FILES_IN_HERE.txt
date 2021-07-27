@@ -3,4 +3,6 @@ The program can deal with 2 states of cards:
 1. Standalone cards - Those are just .png cards inside this folder.
 2. Multi cards		- Those are folders, in which there is a card with the same name. This is for the case your card has tokens.
 
-Examples: The card "Early Payment" will be put in "../00Rogue/3 Epics/". The card "Sparkle Flask" will be put in "../00Mage/2 Rares/Sparkle Flask/", along with its token.
+Examples:
+The card "Early Payment" will be put in "../00Rogue/3 Epics/".
+The card "Sparkle Flask" will be put in "../00Mage/2 Rares/Sparkle Flask/", along with its token.
